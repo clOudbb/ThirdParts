@@ -1,6 +1,6 @@
 # ThirdParts
 ========
-备份别人总结的iOS、mac开源项目及库，持续更新。。。。
+备份别人总结的iOS、mac开源项目及库，根据自己需要再次基础上进行添加修改.
 github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)
 
 ###  目录
