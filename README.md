@@ -1,7 +1,8 @@
-# ThirdParts
+# Third Respository
 ========
-备份别人总结的iOS、mac开源项目及库，根据自己需要再次基础上进行添加修改.
+Fork一个博主的三方总结，加重部分之后由自己维护
 github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)
+自己总结的iOS、mac开源项目及库，持续更新。。。。
 
 ###  目录
 - [UI](#UI)
@@ -10,10 +11,12 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
     - [AutoLayout](#AutoLayout)
     - [富文本](#富文本)
     - [图表](#图表)
-    - [表相关与Tabbar](#表相关与Tabbar) 
+    - [表相关与Tabbar与PageView](#表相关与Tabbar与PageView)
     - [隐藏与显示](#隐藏与显示)
     - [HUD与Toast](#HUD与Toast)
     - [对话框](#对话框)
+    - [Button](#Button)
+    - [PopTip箭头式Tip框](#PopTip)
     - [其他UI](#其他UI)
 - [动画](#动画)
     - [侧滑与右滑返回手势](#侧滑与右滑返回手势)
@@ -169,7 +172,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [ZFChart](https://github.com/Zirkfied/ZFChart) - 模仿PNChart写的一个图表库，用法简单，暂时有柱状图，线状图，饼图三种类型，后续可能会更新新的类型。 
  * [Scrollable-GraphView.swift](https://github.com/philackm/Scrollable-GraphView) - 灵动感十足的自适应、可定制滚动曲（折）线图表库。
 
-##### 表相关与Tabbar
+##### 表相关与Tabbar与PageView
+ * [SGPagingView](https://github.com/kingsic/SGPagingView) - 一个效果不错的pageView
  * [SWTableViewCell](https://github.com/onevcat/SWTableViewCell) - 国内开源作者，带很多手势的表单元格。
  * [MCSwipeTableViewCell](https://github.com/alikaragoz/MCSwipeTableViewCell) - 带很多手势的表单元格。
  * [TMQuiltView](https://github.com/1000Memories/TMQuiltView) - 瀑布流。
@@ -194,7 +198,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [VOMetroLayoutDemo](https://github.com/pozi119/VOMetroLayoutDemo) - Metro风格的UICollectionView, 目前只支持横向布局,仅在iPad上应用。
  * [KYCellAnimation](https://github.com/KittenYang/KYCellAnimation) - 给UITableViewCell增加进入的动画。
  * [COBezierTableView](https://github.com/knutigro/COBezierTableView) - swift，通过编辑 Bezier 曲线四点位置设置 TableView 内 Cell 及对应按扭位置。实验效果很赞。
- * [animated-tab-bar](https://github.com/polobymulberry/animated-tab-bar-Objective-C) - Objective-C animated-tab-bar OC版，点击item带动画效果,使用有坑，如果设置UITabbarController，需要在viewDidLoad中设置item最后，在执行父类方法super viewDidLoad
  * [RDVTabBarController](https://github.com/robbdimitrov/RDVTabBarController) - 一个TabBar组件，可以方便设置底部菜单的文字图片，点击效果，小红点提示等。
  * [LxTabBarController](https://github.com/DeveloperLx/LxTabBarController) - 改变了原生tabbar切换tab时的生硬效果，并加入滑动切换手势（有和界面上的其它手势发生冲突的风险，可根据具体项目予以关闭），[swift版本](https://github.com/DeveloperLx/LxTabBarController-swift)。
  * [WXTabBarController](https://github.com/leichunfeng/WXTabBarController) - 在系统 UITabBarController 的基础上完美实现了安卓版微信 TabBar 的滑动切换功能，单手操作 iPhone 6 Plus 切换 TabBar 一直是一件很痛苦的事情，而滑动切换是一种不错的解决方案，支持屏幕旋转。
@@ -288,7 +291,20 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [CustomPopOverView](https://github.com/maltsugar/CustomPopOverView) - 自定义弹出视图，内容支持传一组菜单标题，也支持自定义view，或者自定义viewController，支持任意按钮触发，会显示在按钮底部，也支持切换按钮的对齐方式：左对齐、居中、右对齐。
  * [PMAlertController.Swift](https://github.com/Codeido/PMAlertController) - 可定制弹窗组件替代官版不可定制的 UIAlertController。
  * [TBActionSheet.swift](https://github.com/yulingtianxia/TBActionSheet) - 支持Carthage，可自定义度100%的 ActionSheet，支持微信样式。
-
+ 
+##### Button
+ * [BTSimpleRippleButton](https://github.com/balram3429/BTSimpleRippleButton) - 一个点击有波纹的Button控件
+ * [PPNumberButton](https://github.com/jkpang/PPNumberButton) - `一个购物车数字的Button，效果不错`
+ * [BFPaperButton](https://github.com/bfeher/BFPaperButton) - `一个安卓风格的Button，定制化不错`
+ * [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - `点击自带动画，效果狂拽酷炫的Button`
+ * [BBBadgeBarButtonItem](https://github.com/TanguyAladenise/BBBadgeBarButtonItem) - `带圆圈数字提示的NaviBarButton`
+ * [JTImageButton](https://github.com/kubatruhlar/JTImageButton) - `(未测试效果)尝试找了一个横向的可以添加图片的button，省的自己重写button的category`
+ * [FSCustomButtonDemo](https://github.com/shunFSKi/FSCustomButtonDemo) - `也是一个可以图文混排的button，没有试验效果，可以尝试`
+ 
+##### PopTip
+ * [AMPopTip](https://github.com/andreamazz/AMPopTip) - `常用的poptip框架,有swift和oc版，不过oc版要去tag翻，已经不维护oc版了`
+ * [CMPopTipView](https://github.com/chrismiles/CMPopTipView) - 年代有点久的一个支持点击位置的poptip
+ 
 ##### 其他UI
  * [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 最多人用的Path菜单。
  * [DCPathButton](https://github.com/Tangdixi/DCPathButton) - Path，4.0的弹出菜单，呼出或者关闭菜单时，多个小图标会分别按照逆时针和顺时针的方向进行滚动。
