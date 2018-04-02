@@ -1289,13 +1289,22 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
  * [唐巧整理](https://github.com/tangqiaoboy/iOSBlogCN) - 猿题库唐巧整理。
  * [11个超棒的iOS开发学习国外网站](http://www.cocoachina.com/ios/20150626/11348.html) - 11个超棒的iOS开发学习网站:[objc.io](https://www.objc.io) ;[subjc.com](http://subjc.com) ;[NSHipster](http://nshipster.com) ;[Peter Steinberger](http://petersteinberger.com) ;[Ole Begemann](http://oleb.net) ;[Florian Kugler](http://floriankugler.com) ;[NSBlog](https://www.mikeash.com/pyblog/) ;[Cocoa](http://cocoa.tumblr.com) ;[iOS Dev Weekly](http://iosdevweekly.com) ;[iOS Developer Tips](http://iosdevelopertips.com) ;[iOS Goodies](http://ios-goodies.com) ;[AppCoda](http://www.appcoda.com) 香港人创建;[Krzysztof Zab?ocki](http://merowing.info) ;[iOS Development tips](http://iosdevtips.co) ;
 
-博客地址 | RSS地址
+本人常关注的一些博客地址 | RSS地址
 ----- | -----
 [南峰子的技术博客](http://southpeak.github.io/) | 南峰子的技术博客。
-[唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
+[唐巧的技术博客-iOS前辈不过目前基本不更新技术文章了](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
 [OneV's Den](https://onevcat.com) | <https://onevcat.com/atom.xml>
 [objc 中国](http://objccn.io/) | 为中国 Objective-C 社区带来最佳实践和先进技术。
+[ibireme伽蓝之堂](http://blog.ibireme.com/) | <http://blog.ibireme.com/feed/>
+[sunyxx](http://blog.sunnyxx.com/) | <http://blog.sunnyxx.com/>
+[落影的简书-音视频较多](https://www.jianshu.com/u/815d10a4bdce/) | <https://www.jianshu.com/u/815d10a4bdce/>
+[里脊串的开发随笔](http://adad184.com) | <http://adad184.com/atom.xml>
 [破船之家](http://beyondvincent.com) | <http://beyondvincent.com/atom.xml>
+[霜神half-不过其本人已经转向后端博客也偏向后端语言了](https://github.com/halfrost/Halfrost-Field/) | <https://github.com/halfrost/Halfrost-Field/>
+[bestswifter-关于iOS方面知识很多](https://bestswifter.com/) | <https://bestswifter.com/>
+[玉令天下的Blog](http://yulingtianxia.com) | <http://yulingtianxia.com/atom.xml>
+
+其他博客 | RSS地址
 [NSHipster](http://nshipster.cn) | <http://nshipster.cn/feed.xml>
 [Limboy 无网不剩](http://limboy.me/) | <http://feeds.feedburner.com/lzyy>
 [Lex iOS notes](http://lextang.com) | <http://ios.lextang.com/rss>
@@ -1334,12 +1343,9 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 [KooFrank's Blog](http://koofrank.com/) | <http://koofrank.com/rss>
 [hello it works](http://helloitworks.com) | <http://helloitworks.com/feed>
 [码农人生](http://msching.github.io/) | <http://msching.github.io/atom.xml>
-[玉令天下的Blog](http://yulingtianxia.com) | <http://yulingtianxia.com/atom.xml>
 [不掏蜂窝的熊](http://www.hotobear.com/) | <http://www.hotobear.com/?feed=rss2>
 [猫·仁波切](https://andelf.github.io/) | <https://andelf.github.io/atom.xml>
 [煲仔饭](http://ivoryxiong.org/) | <http://ivoryxiong.org/feed.xml>
-[里脊串的开发随笔](http://adad184.com) | <http://adad184.com/atom.xml>
-[ibireme伽蓝之堂](http://blog.ibireme.com/) | <http://blog.ibireme.com/feed/>
 
 #### 物联网
  * [awesome-iot](https://github.com/phodal/awesome-iot) - 这份物联网学习参考大全太给力。从物联网协议、嵌入式系统、相关开源库、相关书籍、博客、学习笔记、标准应有尽有。
