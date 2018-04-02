@@ -1291,20 +1291,21 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 
 本人常关注的一些博客地址 | RSS地址
 ----- | -----
-[南峰子的技术博客](http://southpeak.github.io/) | 南峰子的技术博客。
-[唐巧的技术博客-iOS前辈不过目前基本不更新技术文章了](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
-[OneV's Den](https://onevcat.com) | <https://onevcat.com/atom.xml>
+[南峰子的技术博客](http://southpeak.github.io/) | 关于Runtime部分获益匪浅
+[唐巧的技术博客](http://blog.devtang.com) | <iOS前辈不过目前基本不更新技术文章了>
+[OneV's Den](https://onevcat.com) | <喵大的博客，基本iOS届无人不知>
 [objc 中国](http://objccn.io/) | 为中国 Objective-C 社区带来最佳实践和先进技术。
-[ibireme伽蓝之堂](http://blog.ibireme.com/) | <http://blog.ibireme.com/feed/>
+[ibireme伽蓝之堂](http://blog.ibireme.com/) | <YYKit作者，技术文章质量极高，获益匪浅>
 [sunyxx](http://blog.sunnyxx.com/) | <http://blog.sunnyxx.com/>
-[落影的简书-音视频较多](https://www.jianshu.com/u/815d10a4bdce/) | <https://www.jianshu.com/u/815d10a4bdce/>
+[落影的简书](https://www.jianshu.com/u/815d10a4bdce/) | <音视频较多>
 [里脊串的开发随笔](http://adad184.com) | <http://adad184.com/atom.xml>
 [破船之家](http://beyondvincent.com) | <http://beyondvincent.com/atom.xml>
-[霜神half-不过其本人已经转向后端博客也偏向后端语言了](https://github.com/halfrost/Halfrost-Field/) | <https://github.com/halfrost/Halfrost-Field/>
-[bestswifter-关于iOS方面知识很多](https://bestswifter.com/) | <https://bestswifter.com/>
+[霜神half](https://github.com/halfrost/Halfrost-Field/) | <iOS写过一些高质量文章，但其本人已经转向后端博客也偏向后端语言了>
+[bestswifter](https://bestswifter.com/) | <iOS方面知识很多，获益匪浅>
 [玉令天下的Blog](http://yulingtianxia.com) | <http://yulingtianxia.com/atom.xml>
 
 其他博客 | RSS地址
+----- | -----
 [NSHipster](http://nshipster.cn) | <http://nshipster.cn/feed.xml>
 [Limboy 无网不剩](http://limboy.me/) | <http://feeds.feedburner.com/lzyy>
 [Lex iOS notes](http://lextang.com) | <http://ios.lextang.com/rss>
